@@ -1,2 +1,2 @@
-# http://Coursera-Course.github.io
+# Coursera-Course
 Coursera Course HTML/CSS/JavaScript
